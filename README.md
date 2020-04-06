@@ -6,4 +6,4 @@ The file "SarsCov-2_Interactome.cys" is a Cytoscape file (www.cytoscape.org) con
 The network was created by finding first neighbors of each human protein targetted by the virus using SPOKE (https://spoke.ucsf.edu), a knowledge graph containing >5 million nodes and 7 million edges from more than 20 databases. 
 Users can Zoom, select and navigate the network to explore the molecular aspects of COVID-19, including drug repurposing efforts, and hypothesis generation. 
 
-This work was done by Sneha Singh, Adil Harroud, James Landefeld, Conrad Huang, Scooter Morris and Sergio Baranzini. 
+This work was done on April 2020 by Sneha Singh, Adil Harroud, James Landefeld, Conrad Huang, Scooter Morris and Sergio Baranzini. 
